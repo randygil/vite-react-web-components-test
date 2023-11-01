@@ -1,4 +1,4 @@
-````markdown
+
 # Vite + React + TypeScript + Web Components Project
 
 This project is an implementation of Vite, React, TypeScript, and Web Components.
