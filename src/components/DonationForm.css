@@ -1,0 +1,27 @@
+.donationForm {
+  width: 300px;
+  margin: 0 auto;
+  padding: 60px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.donationForm label {
+  font-weight: bold;
+  display: block;
+  margin-bottom: 5px;
+}
+
+.donationForm input {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.donationForm input[type="submit"] {
+  cursor: pointer;
+  background-color: #4caf50;
+  color: white;
+}
