@@ -7,7 +7,6 @@ export interface DonationFormProps {
 }
 
 const DonationForm: React.FC<DonationFormProps> = ({ buttonColor }) => {
-  console.log(buttonColor);
   const [donorName, setDonorName] = useState<string>("");
   const [donorEmail, setDonorEmail] = useState<string>("");
   const [donationAmount, setDonationAmount] = useState<string>("");
